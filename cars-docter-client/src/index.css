@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+
+.banner1 {
+    /* background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+      url("https://i.ibb.co/Qbsgfv2/jr-korpa-XGXv-Yjst-Qbc-unsplash.jpg"); */
+    background-size: cover;
+    background-position: center;
+    max-width: 1320px;
+    min-height: 550px;
+    border-radius: 24px;
+  }
